@@ -45,3 +45,7 @@ Also I do a tiny little bit of Swedish;
 [nodejs_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=javascript
 [csharp_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=c%23
 [php_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=php
+
+
+<img src="https://komarev.com/ghpvc/?username=andersonfds&color=green" alt="It's Anderson!" /> 
+
