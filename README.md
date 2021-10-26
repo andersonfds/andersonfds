@@ -1,23 +1,18 @@
 ### Hi 👋, you can call me Anderson
 
-I'm a full stack software developer, currently working with Angular,
-.NET Core 2.2, NodeJS and Docker Containers;
+I'm a software developer, currently working with Flutter at a digital banking company.
 
 #### About me
 
 One of my favorites thing to do is to solve problems with coding and I love building
 beautiful UI, its inspiring and gives me a whole lot of insights that could be applied
-in my next project;
+in my next project.
 
-#### Languages
-
-Well I'm not talking about programming languages here, this section is about
-the real-world languages I can speak:
+#### Spoken languages
 
 - English
 - Portuguese
-
-Also I do a tiny little bit of Swedish;
+- Swedish (kind of)
 
 > __Fun Fact:__ Because of that passion for languages, I do love globalizing my applications;
 
@@ -29,8 +24,7 @@ Also I do a tiny little bit of Swedish;
 [<img src="https://user-images.githubusercontent.com/25344723/113509739-9cb35f00-952d-11eb-8a04-8f3c781ea96c.png" height="50" alt="c sharp" />][csharp_link]
 [<img src="https://user-images.githubusercontent.com/25344723/113510656-3bda5580-9532-11eb-9581-d2068ed2e12d.png" height="50" alt="c sharp" />][php_link]
 
-
-> __Pro tip:__ Try clicking one of the images
+> __Tip:__ Try clicking one of the images
 
 # Stats
 
