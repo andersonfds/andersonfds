@@ -33,7 +33,6 @@ in my next project.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfds&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=andersonfds&color=green" alt="It's Anderson!" />
 
 [angular_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=typescript
 [flutter_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=dart
