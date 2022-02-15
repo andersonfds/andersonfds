@@ -27,12 +27,12 @@ in my next project.
 
 # Stats
 
-<div>
+<p align="center">
   <a href="https://github.com/andersonfds">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonfds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfds&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-</div>
+</p>
 
 [angular_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=typescript
 [flutter_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=dart
