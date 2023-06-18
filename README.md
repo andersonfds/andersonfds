@@ -1,6 +1,6 @@
 ### Hiya 👋 you can call me Anderson
 
-My job is to turn coffee into code and in terms of programming my interests range a lot, but currently I am very "addicted" in Mobile Engineering. Multiplatforming is what catches my eyes, `React Native`, `Flutter` etc - but I can handle native coding also.
+My job is to turn coffee into code and in terms of programming my interests range a lot, but currently I am very "addicted" to Mobile Engineering. Multiplatforming is what catches my eyes, `React Native`, `Flutter` etc - but I can handle native coding also.
 
 #### About me
 
