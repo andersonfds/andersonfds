@@ -1,19 +1,20 @@
-### Hi 👋, you can call me Anderson
+### Hiya 👋 you can call me Anderson
 
-I'm a software developer, with interests in Mobile Engineering. I love Swift, Kotlin and Dart programming languages.
+My job is to turn coffee into code and in terms of programming my interests range a lot, but currently I am very "addicted" in Mobile Engineering. Multiplatforming is what catches my eyes, `React Native`, `Flutter` etc - but I can handle native coding also.
 
 #### About me
 
-I love new challenges, coding, travel and biking.
+I love new challenges, coding, travel to new places and biking.
 
 #### Spoken languages
 
 - 🇺🇸 English (Bilingual)
 - 🇪🇪 Estonian (Ma räägin natuke. Ma õpin.)
 - 🇧🇷 Portuguese (Bilingual)
-- 🇸🇪 ~Swedish~ (kind of) I forgot most of the things so can't really speak anymore. Went to Sweden and the only thing I could say when the ol' lady asked me something was "jag nej talar Svenska"
+- 🇪🇸 Spanish (A2)
+- 🇸🇪 ~Swedish~ _(kind of) I forgot most of the things so can't really speak anymore. Went to Sweden and the only thing I could say when the ol' lady asked me something was "jag nej talar Svenska"_
 
-> __Fun Fact:__ Because of that passion for languages, I do love writing every software in multiple languages.
+> __Fun Fact:__ Because of that passion for languages, I do love writing every software with multiple language support. And that passion led me to learn multiple approaches like `arb`, live translation replacements and so on. Gosh I have even created my own translation system ^-^
 
 #### Main technologies
 
